@@ -1,5 +1,6 @@
 # hw02-ewwwwjung
 hw02-ewwwwjung created by GitHub Classroom
+
 This repository contains Homework 2 for the class STAT 159 of Spring 2023 in UC Berkeley. In this exercise, we restructured the code from LIGO to improve
 reproducibility through modularization, environments, and Binder.
 
